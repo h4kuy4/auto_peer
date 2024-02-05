@@ -1,5 +1,5 @@
 {
-    description = "A Nix-flake-based development environment for Auto Peer Client";
+    description = "A Nix-flake-based development environment for Auto Peer";
 
     inputs = {
         nixpkgs.url      = "github:NixOS/nixpkgs/nixos-23.11";
